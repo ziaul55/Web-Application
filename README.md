@@ -1,2 +1,2 @@
 # Web Application
- A simple web application
+ A simple web application.
